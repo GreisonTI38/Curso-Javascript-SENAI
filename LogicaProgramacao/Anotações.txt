@@ -1,0 +1,1 @@
+Control + aspas duplas, abre o terminal.
