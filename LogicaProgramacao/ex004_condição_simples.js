@@ -7,4 +7,4 @@ if (velocidade > 30) {
 console.log(` Voce ultrapassou o limite de velocidade!`)
 
 }
-console.log(` Tome cuidado Zé, pode sofrer um acidente, ou pode ser multado em R$1000,50`)
+console.log(` Tome cuidado Zé, pode sofrer um acidente, ou pode ser multado em R$1000,50, então anda com cuidado`)
